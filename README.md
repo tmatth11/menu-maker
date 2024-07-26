@@ -33,13 +33,13 @@ npm install
 
 ## Usage
 
-In the back-end directory, you can run the following command to start the application:
+In the back-end directory, you can run the following command to start the server:
 
 ```bash
 nodemon .
 ```
 
-In the front-end directory, you can run the following command to start the application:
+In the front-end directory, you can run the following command to start the command-line application:
 
 ```bash
 node .
